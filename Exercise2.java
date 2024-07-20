@@ -5,7 +5,7 @@ class GTN {
     public int GuessTheNumber() {
         Random rand = new Random();
         int randomNum = rand.nextInt(100) + 1;
-//        System.out.println("Random Number (for debugging): " + randomNum);
+    //    System.out.println("Random Number (for debugging): " + randomNum);
         return randomNum;
     }
 
