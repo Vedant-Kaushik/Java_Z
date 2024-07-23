@@ -16,6 +16,7 @@ class GTN {
         return guess;
     }
 
+
     public void guessinggame(int randomNum) {
         int chance = 10;
         while (chance > 0) {
