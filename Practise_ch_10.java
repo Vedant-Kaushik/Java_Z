@@ -21,7 +21,6 @@ class Rectangle{
     public int getArea(){
         int l=4,b=3;
         int area=l*b;
-
         return area;
     }
     public int setArea(int area) {
