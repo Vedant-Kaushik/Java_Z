@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175a3b1e-58ab-4954-900d-bb05dec624e7" name="Changes" comment="Practise regarding in Inheritance">
-      <change afterPath="$PROJECT_DIR$/.idea/Java_Z.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="175a3b1e-58ab-4954-900d-bb05dec624e7" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/fewPractise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise_ch_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practise_ch_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/Exercise2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/GTN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/GTN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +42,7 @@
     "Application.Library.executor": "Run",
     "Application.Practise_ch_10.executor": "Run",
     "Application.Practisech_10.executor": "Run",
+    "Application.fewPractise.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -107,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721736930748</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practise regarding in Inheritance">
+      <option name="closed" value="true" />
+      <created>1721737399983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737399983</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-">
+      <option name="closed" value="true" />
+      <created>1721737415061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737415061</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +123,7 @@
     <MESSAGE value="guess the number game by OOPS" />
     <MESSAGE value="A online Library making exercise(very basic)" />
     <MESSAGE value="Practise regarding in Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise regarding in Inheritance" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
