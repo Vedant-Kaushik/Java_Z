@@ -4,30 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175a3b1e-58ab-4954-900d-bb05dec624e7" name="Changes" comment="guess the number game by OOPS">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/Exercise2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/Java_Z.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/literals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/practise3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/practise4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/practise5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/practise6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/practise7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/practise8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/sq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise8.java" beforeDir="false" />
+    <list default="true" id="175a3b1e-58ab-4954-900d-bb05dec624e7" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/Practise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fewPractise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fewPractise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fewPractise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/circle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +27,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jVWxGcMF51hcOCqkEvARjnrQrW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,9 +44,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Exercise2.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.NPTEL_W2.executor": "Run",
+    "Application.Practise11.executor": "Run",
+    "Application.Practise_ch_10.executor": "Run",
+    "Application.Practisech_10.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.fewPractise.executor": "Run",
+    "Application.fewPractise2.executor": "Run",
+    "Application.fewPractise3.executor": "Run",
+    "Application.fewPractise4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vedantkaushik/Java_Z"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,12 +89,72 @@
       <option name="project" value="LOCAL" />
       <updated>1721483499396</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="guess the number game by OOPS">
+      <option name="closed" value="true" />
+      <created>1721487228023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721487228023</updated>
+    </task>
+    <task id="LOCAL-00004" summary="A online Library making exercise(very basic)">
+      <option name="closed" value="true" />
+      <created>1721722053513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721722053513</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Practise regarding in Inheritance">
+      <option name="closed" value="true" />
+      <created>1721736930748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721736930748</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Practise regarding in Inheritance">
+      <option name="closed" value="true" />
+      <created>1721737399983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737399983</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-">
+      <option name="closed" value="true" />
+      <created>1721737415061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737415061</updated>
+    </task>
+    <task id="LOCAL-00008" summary="-">
+      <option name="closed" value="true" />
+      <created>1722140625688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722140625688</updated>
+    </task>
+    <task id="LOCAL-00009" summary="-">
+      <option name="closed" value="true" />
+      <created>1722140642864</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722140642864</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="guess the number game by OOPS" />
-    <option name="LAST_COMMIT_MESSAGE" value="guess the number game by OOPS" />
+    <MESSAGE value="A online Library making exercise(very basic)" />
+    <MESSAGE value="Practise regarding in Inheritance" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
