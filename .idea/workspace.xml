@@ -4,13 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175a3b1e-58ab-4954-900d-bb05dec624e7" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/Practise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fewPractise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fewPractise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fewPractise4.java" afterDir="false" />
+    <list default="true" id="175a3b1e-58ab-4954-900d-bb05dec624e7" name="Changes" comment="some classes">
+      <change afterPath="$PROJECT_DIR$/BasicAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GTN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hybridcalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monkey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise_ch_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculators/Hybridcalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculators/Sccalculator2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculators/calc2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculators/calc3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculators/calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculators/clac1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clac1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codes/shape/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codes/shape/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codes/shape/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codes/shape/Sphere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codes/shape/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codes/shape/textEditproject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fewPractise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_q.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Z/circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fewPractise4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Z/fewPractise4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +92,8 @@
     "Application.fewPractise2.executor": "Run",
     "Application.fewPractise3.executor": "Run",
     "Application.fewPractise4.executor": "Run",
+    "Application.folder_q.executor": "Run",
+    "Application.textEditproject.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -64,6 +101,21 @@
     "last_opened_file_path": "/Users/vedantkaushik/Java_Z"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="textEditproject" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codes.shape.textEditproject" />
+      <module name="Java_Z" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codes.shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -145,7 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722140642864</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="few Practise">
+      <option name="closed" value="true" />
+      <created>1724246986250</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724246986250</updated>
+    </task>
+    <task id="LOCAL-00011" summary="few Practise">
+      <option name="closed" value="true" />
+      <created>1724246994141</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724246994141</updated>
+    </task>
+    <task id="LOCAL-00012" summary="some classes">
+      <option name="closed" value="true" />
+      <created>1724247335594</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724247335594</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +231,8 @@
     <MESSAGE value="A online Library making exercise(very basic)" />
     <MESSAGE value="Practise regarding in Inheritance" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="few Practise" />
+    <MESSAGE value="some classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some classes" />
   </component>
 </project>
